@@ -3,7 +3,7 @@
 apiVersion: blends.acryl.dev/v1alpha1
 kind: Blueprint
 metadata:
-  id: acrylblends.cat-proof-notes
+  id: inboxxobni.cat-proof-notes
   name: cat-proof-notes
   version: 0.1.1
   category: productivity
