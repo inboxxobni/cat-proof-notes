@@ -7,8 +7,10 @@ metadata:
   name: cat-proof-notes
   version: 0.1.1
   category: productivity
-  description: "A multi-user notes app (sign-up, log-in, search, SQLite with migrations) that opens in its own desktop window as well as in the browser."
-  visibility: private
+  description: "A multi-user notes app (sign-up, log-in, search, SQLite with
+    migrations) that opens in its own desktop window as well as in the browser."
+  visibility: public
+  license: MIT
 spec:
   runtime: cordis
   parameters:
